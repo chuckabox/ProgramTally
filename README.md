@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # programtally README
 
 This is the README for your extension "programtally". After writing up a brief description, we recommend including the following sections.
@@ -69,3 +70,6 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# programtally
+>>>>>>> 1ffc937b51dca74556514f5bec40a3963d901a30
