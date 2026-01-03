@@ -24,3 +24,7 @@ ProgramTally is a small VS Code extension that tracks your total lines of code a
 
 ### 1.0.0
 - Initial release with status bar and Webview panel
+
+## TODO
+
+- Add a yearly summary view similar to Spotify Wrapped, showing total lines written, total errors and warnings, and most active languages over the year
